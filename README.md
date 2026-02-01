@@ -33,11 +33,12 @@ Supports both **console input** and **file-based processing**.
 
 git clone https://github.com/your-username/caesar-cipher-python.git
 
-###2️⃣ Navigate to Project Folder
+2️⃣ Navigate to Project Folder
 cd caesar-cipher-python
 
-###3️⃣ Run the Program
+3️⃣ Run the Program
 python caesar.py
+
 ---
 ## 📖 How It Works
 
@@ -52,13 +53,16 @@ python caesar.py
 
 ---
  ## 🧪 Example
+ 
 Input:  HELLO
 Shift:  3
 Output: KHOOR
+
 ---
  ## 👨‍💻 Author
 
 Dilshan Wijayawardhane
+
 ---
  ## 📜 License
 
